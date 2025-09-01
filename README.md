@@ -30,7 +30,7 @@ Need to Install Paramiko for SSH connection
 Connection has to be established between devices and tftp server and ssh has to be authenticated.
 
 To check SSH service
-#sh ip ssh
+## sh ip ssh
 
 To enable SSH authentication
-#ip ssh password-authentication
+## ip ssh password-authentication
